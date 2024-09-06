@@ -24,10 +24,6 @@ Bem-vindo ao **Projeto de Busca de Cantores**! Esta aplicação simples e funcio
 
 O design foi feito com foco na simplicidade e elegância. Ele utiliza a fonte moderna **Chakra Petch** para criar uma experiência visual única. 
 
-<p align="center">
-  <img src="https://i.imgur.com/nOQRmfr.png" alt="Interface do projeto" width="600px"/>
-</p>
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
